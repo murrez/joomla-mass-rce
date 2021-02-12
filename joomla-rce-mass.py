@@ -1,6 +1,6 @@
 '''
   joomla rce masschek for CVE-2015-8562
-  https://spyhackerz.org/
+  https://www.murrez.com
   instagram.com/murrez.sec
 '''
 import sys
